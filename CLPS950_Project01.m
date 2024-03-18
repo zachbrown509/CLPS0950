@@ -13,9 +13,22 @@ questions = {
     'How extroverted are you? (1-10)';
     'How much do you enjoy nature? (1-10)';
     };
-for ii = 1:length(questions)
-    disp(questions{ii})
-end
 
-%% hi!
+beverages = {
+'Vanilla Iced Coffee'; 'Hot Brewed Coffee'; 'Cold Brew';
+'Iced Lavender Latte'; 'Espresso Macchiato';    
+};
+
+beverage_recipes = {
+'Vanilla Iced Coffee Recipe: ',
+'Hot Brewed Coffee Recipe: ',
+'Cold Brew Recipe: ',
+'Iced Lavender Latte Recipe: ',
+'Espresso Macchiato Recipe: '
+};
+
+for ii = 1:length(questions)
+    total_score(ii) = input(questions{ii});
+end
+disp(sum(total_score));
 
