@@ -1,3 +1,7 @@
+Our final version of the project is called project24march.m
+
+(We struggled a lot with github, something about one of our computer's not having access to something)
+
 We spent quite a bit of time working on this project. We decided to create a coffee/personality quiz because one of us loves coffee and the other doesn't drink it but likes the coffee vibe.
 
 We spent the first few days planning out our code on paper because we agreed that the largest problems we run into with the assesments and exercises is just beginning coding without
@@ -19,6 +23,8 @@ sketchy website.
 We think what worked well for this project was planning it out on paper first because this made it a lot more clear how we were going to proceed. However, we should have spent more time
 planning and been more specific because we ran into major issues with our loops that took days to figure out. We also had a lot of fun with this project because matching personalities
 to coffee types was entertaining. 
+
+Also, we emailed our proposal on 07 March and never received a response but we went ahead with our idea we hope that's okay.
 
 Overall, super fun! Sydney is an iced lavender latte and Zach is an espresso macchiato :)
 
